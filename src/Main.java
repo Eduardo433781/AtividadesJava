@@ -70,10 +70,6 @@ public class Main {
 
 
         //Tipos Booleanos
-        int numero = 15;
-        boolean maiorQueDez = numero > 10;
-
-        System.out.println("O número " + numero + " é maior que 10? " + maiorQueDez);
 
         int numero1 = 100;
         boolean menorQueCem = numero1 <= 100;
@@ -129,6 +125,12 @@ public class Main {
 
         System.out.println("Meu nome é " + nome + " e eu faço curso no Senai");
         System.out.println("Eu tenho " + idade + " anos e " + altura2 + " de altura");
+
+        
+
+
+
+
 
 
 
